@@ -1,5 +1,5 @@
 <!--
-This is an article template you can use as a quick starting point when writing DigitalOcean conceptual tutorials. 
+This is an article template copy you can use as a quick starting point when writing DigitalOcean conceptual tutorials. 
 
 Once you've reviewed the template, delete the comments and begin writing your outline or article. You'll find some examples of our custom Markdown at the very bottom of the template.
 
